@@ -8,12 +8,19 @@ To run the program, execute the following steps:
   1. Assemble the program by clicking Run > Assemble
   2. Set up the display by clicking Tools > Bitmap Display
   3. Configure the display:
+  
     - Set Unit Width in Pixles to 8
+    
     - Set Unit Height in Pixels to 8
+    
     - Set Display Width in Pixels to 256
+    
     - Set Display Height in Pixels to 258
+    
     - Set Base Address for Display to 0x10008000 ($gp)
+    
     - Click Connect to MIPS
+    
   4. Set up the keyboard simulator by clicking Tools > Keyboard and Display MMIO Simulator, and then clicking Connect to MIPS on the simulator window that appears
   5. Run the program by clicking Run > Go
 
