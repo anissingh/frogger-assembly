@@ -15,7 +15,7 @@ To run the program in MARS 4.5, execute the following steps:
     
     - Set Display Width in Pixels to 256
     
-    - Set Display Height in Pixels to 258
+    - Set Display Height in Pixels to 256
     
     - Set Base Address for Display to 0x10008000 ($gp)
     
